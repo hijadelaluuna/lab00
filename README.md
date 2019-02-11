@@ -11,7 +11,7 @@
 - [x] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
 - [x] 6. Ознакомиться со ссылками учебного материала
 - [x] 7. Выполнить инструкцию учебного материала
-- [ ] 8. Сгенирировать **SSH** ключ и добавть его в список ключей для сервиса **GitHub**
+- [x] 8. Сгенирировать **SSH** ключ и добавть его в список ключей для сервиса **GitHub**
 - [x] 9. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
 - [x] A. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
@@ -32,10 +32,10 @@ $ hub --version
 $ make --version
 //GNU Make 4.2.1
 $ subl --version
-
+//sublime-text-2.0.2-4
 $ tree --version
 $ wget --version
-GNU Wget 1.19.5 для linux-gnu.
+//GNU Wget 1.19.5 для linux-gnu.
 $ openssl version
 //OpenSSL 1.1.1  11 Sep 2018
 ```
@@ -48,7 +48,7 @@ $ openssl version
 - [GitHub](https://github.com)
 - [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [Markdown](https://stackedit.io)
-- [Gist](https://gist.github.com)
+- [Gist](https://stackedit.io)
 - [GitHub Personal Token](https://github.com/settings/tokens/new)
 
 
