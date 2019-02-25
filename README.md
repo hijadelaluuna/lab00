@@ -20,24 +20,24 @@
 ```sh
 # check development environment
 $ cmake --version
-
+cmake version 3.12.2
 $ curl --version
-//cmake version 3.12.2
+curl 7.61.1 (x86_64-pc-linux-gnu) libcurl/7.61.1 OpenSSL/1.1.1 zlib/1.2.11 libidn2/2.0.5 libpsl/0.20.2 (+libidn2/2.0.4) nghttp2/1.32.0
 $ git --version
-//git version 2.19.0
+git version 2.19.0
 $ g++ --version
-//g++ (GCC) 8.2.1 20180831
+g++ (GCC) 8.2.1 20180831
 $ hub --version
-//hub version 2.5.0
+hub version 2.5.0
 $ make --version
-//GNU Make 4.2.1
+GNU Make 4.2.1
 $ subl --version
-//sublime-text-2.0.2-4
+sublime-text-2.0.2-4
 $ tree --version
 $ wget --version
-//GNU Wget 1.19.5 для linux-gnu.
+GNU Wget 1.19.5 для linux-gnu.
 $ openssl version
-//OpenSSL 1.1.1  11 Sep 2018
+OpenSSL 1.1.1  11 Sep 2018
 ```
 
 ## Links
