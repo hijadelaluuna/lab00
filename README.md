@@ -16,7 +16,7 @@
 - [x] A. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
-
+Проверка окружения для разработки (`cmake , `curl , и  т.д.).Используемая система - Archlinux.Отсутствующие элементы окружения для разработки были установлены посредством pacman.
 ```sh
 # check development environment
 $ cmake --version
@@ -50,6 +50,8 @@ OpenSSL 1.1.1  11 Sep 2018
 - [Markdown](https://stackedit.io)
 - [Gist](https://stackedit.io)
 - [GitHub Personal Token](https://github.com/settings/tokens/new)
+
+Block description
 
 
 ```
